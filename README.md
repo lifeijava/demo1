@@ -1,2 +1,2 @@
 # demo
-项目demo案例。
+项目demo案例
